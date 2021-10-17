@@ -6,7 +6,7 @@ This is Pascal code that was used to create estimates and reports in PlanSwift\'
 * Creating code that is scalable.
 * Real-life examples can help solve computer problems. Imagine adding brick to a wall, but starting from the top down. That is how the function used to build the cells in the code works.
 
-#Estimate Example
+# Estimate Example
 ![alt text](estimate.jpg)
 
 # Report Example
