@@ -10,4 +10,4 @@ This is Pascal code that was used to create estimates and reports in PlanSwift\'
 ![alt text](estimate.jpg)
 
 # Report Example
-![alt text](report.jpg)}
+![alt text](report.jpg)
